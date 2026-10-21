@@ -1,0 +1,12 @@
+*
+!*/
+!*.py
+!*.md
+!.gitignore
+downloads/
+reports/
+__pycache__/
+.venv/
+venv/
+env/
+.env/
